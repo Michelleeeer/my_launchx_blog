@@ -22,6 +22,6 @@ Algo que disfrtuto es mi soledad pero también estar con mis mejores amigos, lo 
 Espero con el tiempo encontrar una especialización en ciberseguridad.  
 
 Recomendaciones: 
-[Canción favorita](https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn?si=2bedc5356b3e41ad).
-[Canción favorita del momento](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI?si=2a6453395de64356).
-[Album Favorito](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1?si=b38W4_fXSwK_GCXvO5v0-w).
+1.[Canción favorita](https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn?si=2bedc5356b3e41ad).
+2.[Canción favorita del momento](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI?si=2a6453395de64356).
+3.[Album Favorito](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1?si=b38W4_fXSwK_GCXvO5v0-w).
