@@ -9,10 +9,13 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Expectativas de esta aventura: 
 
-- Mejorar mi pensamiento lógico 
-- Tener dominio de Git y Github 
-- Saber y contruir Apis *es lo que me emociona más* 
-- Aprender hacer conexiones de bd a las aplicaciones con Node js
-- Divertirme 
+- **Mejorar mi pensamiento lógico **
+- **Tener dominio de Git y Github**
+- **Saber y contruir Apis _esto es lo que me emociona más_ **
+- **Aprender hacer conexiones de bd a las aplicaciones con Node js**
+- **Divertirme **
+
+
+
 
 🚀
