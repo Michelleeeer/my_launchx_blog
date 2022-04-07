@@ -1,21 +1,27 @@
 ---
-title: 'About me'
+title: 'Mads'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mi"
 ---
 
-## Who am I
+## Donde el viento nos lleve
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+###### Esta es una pequeña descripción sobre mi. 
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+_Mi nombre es Madai Michelle tengo 22 años, y ultimamente me cuesta contar sobre quien soy y tal vez sea un problema pero espero solucionarlo pronto.
+Aún así pondre cosas que me gustan._
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Me gusta el Anime**
+**Amo bailar (me quita el estrés)**
+**Amo a BTS (me motivan a seguir adenlante)**
+**Amo a mi duo favorito _TOP_(Ellos salvaron mi vida)**
+**Me gusta leer**
 
+Algo que disfrtuto es mi soledad pero también estar con mis mejores amigos, lo que realmente ansio es poder independizarme y por eso me estoy esforzando. 
+Espero con el tiempo encontrar una especialización en ciberseguridad.  
+
+Recomendaciones: 
+[Canción favorita](https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn?si=2bedc5356b3e41ad).
+[Canción favorita del momento](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI?si=2a6453395de64356).
+[Album Favorito](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1?si=b38W4_fXSwK_GCXvO5v0-w).
