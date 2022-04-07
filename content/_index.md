@@ -11,7 +11,7 @@ Expectativas de esta aventura:
 
 - Mejorar mi pensamiento lógico 
 - Tener dominio de Git y Github 
-- Saber y contruir Apis * es lo que me emociona más* 
+- Saber y contruir Apis *es lo que me emociona más* 
 - Aprender hacer conexiones de bd a las aplicaciones con Node js
 - Divertirme 
 
