@@ -6,7 +6,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 _Sin duda el ser o convertirse en profesional del desarrollo de software puede ser un camino complejo pero también divertido, sin embargo hay algo que debemos de saber y que ignoramos por completo, asi que considero que estos puntos son parte fundamental como profesional._
 
-- **Salud Menntal**
+- **Salud Mental**
 - **Resistencia**
 - **Inteligencia Emocional**
 - **Ética**
